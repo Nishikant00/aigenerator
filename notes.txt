@@ -1,0 +1,2 @@
+1. ZOD setup with env variables 
+2. OAuth with lucia
